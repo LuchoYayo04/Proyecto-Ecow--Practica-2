@@ -1,0 +1,64 @@
+.box {
+    padding: 1em;
+    box-sizing: border-box;
+    border-radius: 0.2em;
+}
+
+.red {
+    border: 1px solid red;
+}
+
+.blue{
+    border: 1px solid blue
+}
+
+.videoTreinta{
+    padding: 0.3em;
+    color: white;
+    background: rgb(11, 187, 158);
+    border-radius: 0.9em;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.container {
+    background: rgb(33, 155, 135);
+    margin-top: 25px;
+  }
+
+  .container2 {
+    background: rgb(114, 107, 214);
+    margin-top: 25px;
+  }
+
+
+.p {
+    font-size: 200%;
+    font-weight: bold;
+    letter-spacing: 10px;
+    text-align: center;
+    text-shadow: gray 6px 0;
+    text-transform: uppercase;
+  }
+
+.blockquote {
+    padding: 30px 10px;
+    border: PowderBlue 5px solid;
+    border-radius: 200px;
+  }
+
+  .boton_distancia{
+    right: -25%;
+    position: relative;
+  }
+
+  .right {
+    right: -23%;
+    position: relative;    
+}
+
+.right2 {
+    right: -50%;
+    position: relative;    
+}
